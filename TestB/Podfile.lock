@@ -1,0 +1,25 @@
+PODS:
+  - AliyunPlayer_iOS/AliyunPlayerSDK (3.4.9)
+  - AliyunPlayer_iOS/AliyunVodPlayerSDK (3.4.9):
+    - AliyunPlayer_iOS/AliyunPlayerSDK
+  - TestA (0.0.1):
+    - AliyunPlayer_iOS/AliyunVodPlayerSDK
+
+DEPENDENCIES:
+  - TestA (from `../TestA`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AliyunPlayer_iOS
+
+EXTERNAL SOURCES:
+  TestA:
+    :path: "../TestA"
+
+SPEC CHECKSUMS:
+  AliyunPlayer_iOS: 5704f564e0c041668138a604ebff31ecb13fe7d3
+  TestA: f054e752308d0ee1739c9c5b1a0cb5913d1e0f51
+
+PODFILE CHECKSUM: d227cb1a26ce0f6b540ed5f2aef210169a867455
+
+COCOAPODS: 1.5.3

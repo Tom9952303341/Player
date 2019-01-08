@@ -1,0 +1,26 @@
+{
+  "name": "TestA",
+  "version": "0.0.1",
+  "summary": "TestA.",
+  "description": "TestA 测试",
+  "homepage": "http://github/TestA",
+  "authors": {
+    "Tom": "tom9952303341@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "http://github/TestA.git"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "AliyunPlayer_iOS/AliyunVodPlayerSDK": [
+
+    ]
+  }
+}

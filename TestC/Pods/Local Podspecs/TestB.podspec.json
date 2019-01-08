@@ -1,0 +1,21 @@
+{
+  "name": "TestB",
+  "version": "0.0.1",
+  "summary": "TestB.",
+  "description": "TestB 测试",
+  "homepage": "http://github/TestB",
+  "authors": {
+    "Tom": "tom9952303341@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "http://github/TestB.git"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h"
+}
